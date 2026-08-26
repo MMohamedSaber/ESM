@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ESM.API/ESM.API.csproj" />
+  <Project Path="ESM.Application/ESM.Application.csproj" />
+  <Project Path="ESM.Domain/ESM.Domain.csproj" />
+  <Project Path="ESM.Infrastructure/ESM.Infrastructure.csproj" />
+  <Project Path="ESM.Tests/ESM.Tests.csproj" />
+</Solution>

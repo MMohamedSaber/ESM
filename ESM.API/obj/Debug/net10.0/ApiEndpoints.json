@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "ESM.API.Controllers.ServiceCategoriesController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/ServiceCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServiceCategoriesController",
+    "Method": "Create",
+    "RelativePath": "api/v1/ServiceCategories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ESM.Application.DTOs.CreateServiceCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServiceCategoriesController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/ServiceCategories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServiceCategoriesController",
+    "Method": "Update",
+    "RelativePath": "api/v1/ServiceCategories/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ESM.Application.DTOs.CreateServiceCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServiceCategoriesController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/ServiceCategories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServicesController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Services",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServicesController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Services",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ESM.Application.DTOs.CreateServiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServicesController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Services/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServicesController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Services/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ESM.Application.DTOs.CreateServiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESM.API.Controllers.ServicesController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Services/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

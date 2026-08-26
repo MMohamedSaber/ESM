@@ -1,0 +1,11 @@
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\bin\Debug\net10.0\ESM.Domain.deps.json
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\bin\Debug\net10.0\ESM.Domain.dll
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\bin\Debug\net10.0\ESM.Domain.pdb
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ESM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ESM.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ESM.Domain.AssemblyInfo.cs
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ESM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ESM.Domain.dll
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\refint\ESM.Domain.dll
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ESM.Domain.pdb
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Domain\obj\Debug\net10.0\ref\ESM.Domain.dll
