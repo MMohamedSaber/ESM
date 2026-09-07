@@ -6,10 +6,16 @@ namespace ESM.Domain.Entities;
 public class Employee : BaseEntity, ISoftDeletable
 {
     public string UserId { get; set; } = string.Empty;
+    public User User { get; set; } = null!;
+
     public string EmployeeNumber { get; set; } = string.Empty;
+    
     public Guid DepartmentId { get; set; }
-    public Guid OrganizationId { get; set; }
-    public string Position { get; set; } = string.Empty;
+    public Department Department { get; set; } = null!;
+
+    public Guid PositionId { get; set; }
+    public Position Position { get; set; } = null!;
+
     public DateTime HireDate { get; set; }
     public decimal Salary { get; set; }
     public EmployeeStatus Status { get; set; } = EmployeeStatus.Active;
@@ -17,6 +23,5 @@ public class Employee : BaseEntity, ISoftDeletable
     public bool IsDeleted { get; set; }
     public DateTime? DeletedAt { get; set; }
 
-    public Department Department { get; set; } = null!;
-    public Organization Organization { get; set; } = null!;
+    public ICollection<Appointment> Appointments { get; set; } = new List<Appointment>();
 }

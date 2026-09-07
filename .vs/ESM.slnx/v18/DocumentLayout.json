@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C05425-EA7B-E590-2D32-EB892FE1BF62}|ESM.Application\\ESM.Application.csproj|c:\\users\\mohamed.desktop-06s7p6v\\.gemini\\antigravity-ide\\scratch\\esm\\esm.application\\interfaces\\iesmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C05425-EA7B-E590-2D32-EB892FE1BF62}|ESM.Application\\ESM.Application.csproj|solutionrelative:esm.application\\interfaces\\iesmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED923892-C44F-877B-170D-8ADECA85596D}|ESM.API\\ESM.API.csproj|c:\\users\\mohamed.desktop-06s7p6v\\.gemini\\antigravity-ide\\scratch\\esm\\esm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED923892-C44F-877B-170D-8ADECA85596D}|ESM.API\\ESM.API.csproj|solutionrelative:esm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CBFCF0F-7FFE-7FFA-8F73-3A1D24C7AC39}|ESM.Domain\\ESM.Domain.csproj|c:\\users\\mohamed.desktop-06s7p6v\\.gemini\\antigravity-ide\\scratch\\esm\\esm.domain\\enums\\customerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CBFCF0F-7FFE-7FFA-8F73-3A1D24C7AC39}|ESM.Domain\\ESM.Domain.csproj|solutionrelative:esm.domain\\enums\\customerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED923892-C44F-877B-170D-8ADECA85596D}|ESM.API\\ESM.API.csproj|c:\\users\\mohamed.desktop-06s7p6v\\.gemini\\antigravity-ide\\scratch\\esm\\esm.api\\esm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED923892-C44F-877B-170D-8ADECA85596D}|ESM.API\\ESM.API.csproj|solutionrelative:esm.api\\esm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ESM.API",
+              "DocumentMoniker": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj",
+              "RelativeDocumentMoniker": "ESM.API\\ESM.API.csproj",
+              "ToolTip": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj",
+              "RelativeToolTip": "ESM.API\\ESM.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T13:27:59.933Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -39,27 +52,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IEsmDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\Interfaces\\IEsmDbContext.cs",
-              "RelativeDocumentMoniker": "ESM.Application\\Interfaces\\IEsmDbContext.cs",
-              "ToolTip": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\Interfaces\\IEsmDbContext.cs",
-              "RelativeToolTip": "ESM.Application\\Interfaces\\IEsmDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\Program.cs",
+              "RelativeDocumentMoniker": "ESM.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\Program.cs",
+              "RelativeToolTip": "ESM.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T13:34:27.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\Enums\\CustomerStatus.cs",
-              "RelativeDocumentMoniker": "ESM.Domain\\Enums\\CustomerStatus.cs",
-              "ToolTip": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\Enums\\CustomerStatus.cs",
-              "RelativeToolTip": "ESM.Domain\\Enums\\CustomerStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T12:04:10.318Z",
+              "WhenOpened": "2026-09-05T13:01:00.187Z",
               "EditorCaption": ""
             }
           ]

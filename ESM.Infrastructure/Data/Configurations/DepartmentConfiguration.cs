@@ -15,10 +15,7 @@ public class DepartmentConfiguration : IEntityTypeConfiguration<Department>
 
         builder.HasQueryFilter(d => !d.IsDeleted);
 
-        builder.HasOne(d => d.Manager)
-               .WithMany()
-               .HasForeignKey(d => d.ManagerId)
-               .OnDelete(DeleteBehavior.SetNull);
+// Removed Manager
 
         builder.HasMany(d => d.Employees)
                .WithOne(e => e.Department)

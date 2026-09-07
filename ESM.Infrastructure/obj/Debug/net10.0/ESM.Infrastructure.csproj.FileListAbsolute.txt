@@ -11,6 +11,7 @@ C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrast
 C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\ESM.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\ESM.Infrastructure.AssemblyInfo.cs
 C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\ESM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\ESM.Infrastructure.sourcelink.json
 C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\ESM.Infr.01DE297C.Up2Date
 C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\ESM.Infrastructure.dll
 C:\Users\Mohamed.DESKTOP-06S7P6V\.gemini\antigravity-ide\scratch\ESM\ESM.Infrastructure\obj\Debug\net10.0\refint\ESM.Infrastructure.dll

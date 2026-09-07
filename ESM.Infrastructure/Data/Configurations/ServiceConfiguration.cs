@@ -21,5 +21,15 @@ public class ServiceConfiguration : IEntityTypeConfiguration<Service>
             .HasColumnType("decimal(18,2)");
 
         builder.HasQueryFilter(s => !s.IsDeleted);
+
+        builder.HasMany(s => s.ServiceRequests)
+            .WithOne(sr => sr.Service)
+            .HasForeignKey(sr => sr.ServiceId)
+            .OnDelete(DeleteBehavior.Restrict);
+
+        builder.HasMany(s => s.InvoiceItems)
+            .WithOne(ii => ii.Service)
+            .HasForeignKey(ii => ii.ServiceId)
+            .OnDelete(DeleteBehavior.Restrict);
     }
 }

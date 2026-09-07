@@ -1,14 +1,14 @@
 using ESM.Application.Interfaces;
 using ESM.Domain.Entities;
 using ESM.Domain.Interfaces;
-using ESM.Infrastructure.Identity;
+// removed using ESM.Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
 namespace ESM.Infrastructure.Data;
 
-public class EsmDbContext : IdentityDbContext<ApplicationUser>, IEsmDbContext
+public class EsmDbContext : IdentityDbContext<User>, IEsmDbContext
 {
     public EsmDbContext(DbContextOptions<EsmDbContext> options) : base(options)
     {
@@ -20,6 +20,14 @@ public class EsmDbContext : IdentityDbContext<ApplicationUser>, IEsmDbContext
     public DbSet<Customer> Customers { get; set; }
     public DbSet<ServiceCategory> ServiceCategories { get; set; }
     public DbSet<Service> Services { get; set; }
+    public DbSet<Position> Positions { get; set; }
+    public DbSet<ServiceRequest> ServiceRequests { get; set; }
+    public DbSet<Appointment> Appointments { get; set; }
+    public DbSet<Invoice> Invoices { get; set; }
+    public DbSet<InvoiceItem> InvoiceItems { get; set; }
+    public DbSet<Payment> Payments { get; set; }
+    public DbSet<Review> Reviews { get; set; }
+    public DbSet<RefreshToken> RefreshTokens { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
