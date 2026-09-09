@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u98j1abCXek=",
+  "dgSpecHash": "OcdwbBdD18M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj",
+  "projectFilePath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\ESM.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

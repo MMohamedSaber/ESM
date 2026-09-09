@@ -865,11 +865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj",
       "projectName": "ESM.Domain",
-      "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj",
+      "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj",
       "packagesPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

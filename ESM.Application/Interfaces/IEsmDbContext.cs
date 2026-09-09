@@ -5,6 +5,7 @@ namespace ESM.Application.Interfaces;
 
 public interface IEsmDbContext
 {
+    DbSet<User> Users { get; }
     DbSet<Organization> Organizations { get; }
     DbSet<Department> Departments { get; }
     DbSet<Employee> Employees { get; }

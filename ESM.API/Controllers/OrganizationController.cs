@@ -1,4 +1,5 @@
 using ESM.Application.Common.Constants;
+using ESM.Application.Common.Models;
 using ESM.Application.DTOs.Organization;
 using ESM.Application.Interfaces;
 using Microsoft.AspNetCore.Authorization;
@@ -11,10 +12,14 @@ namespace ESM.API.Controllers;
 public class OrganizationController : ControllerBase
 {
     private readonly IOrganizationRegistrationService _registrationService;
+    private readonly IOrganizationService _organizationService;
 
-    public OrganizationController(IOrganizationRegistrationService registrationService)
+    public OrganizationController(
+        IOrganizationRegistrationService registrationService,
+        IOrganizationService organizationService)
     {
         _registrationService = registrationService;
+        _organizationService = organizationService;
     }
 
     [HttpPost(ApiRoutes.Organization.Register)]
@@ -29,4 +34,12 @@ public class OrganizationController : ControllerBase
 
         return Ok(response);
     }
+
+    [HttpGet(ApiRoutes.Organization.GetAll)]
+    public async Task<ActionResult<ApiResponse<IEnumerable<OrganizationDto>>>> GetAll()
+    {
+        var response = await _organizationService.GetAllAsync();
+        return Ok(response);
+    }
 }
+

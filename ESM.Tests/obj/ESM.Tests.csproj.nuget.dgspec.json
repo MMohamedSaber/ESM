@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Tests\\ESM.Tests.csproj": {}
+    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Tests\\ESM.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj": {
+    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\ESM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\ESM.API.csproj",
         "projectName": "ESM.API",
-        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj",
+        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\ESM.API.csproj",
         "packagesPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj"
               },
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj"
               }
             }
           }
@@ -518,14 +518,14 @@
         }
       }
     },
-    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj": {
+    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj",
         "projectName": "ESM.Application",
-        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj",
+        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj",
         "packagesPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -547,8 +547,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj"
               }
             }
           }
@@ -876,14 +876,14 @@
         }
       }
     },
-    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
+    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj",
         "projectName": "ESM.Domain",
-        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj",
+        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj",
         "packagesPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1222,14 +1222,14 @@
         }
       }
     },
-    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj": {
+    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj",
         "projectName": "ESM.Infrastructure",
-        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1251,11 +1251,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj"
               },
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj"
               }
             }
           }
@@ -1601,14 +1601,14 @@
         }
       }
     },
-    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Tests\\ESM.Tests.csproj": {
+    "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Tests\\ESM.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Tests\\ESM.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Tests\\ESM.Tests.csproj",
         "projectName": "ESM.Tests",
-        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Tests\\ESM.Tests.csproj",
+        "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Tests\\ESM.Tests.csproj",
         "packagesPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1630,17 +1630,17 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.API\\ESM.API.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\ESM.API.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.API\\ESM.API.csproj"
               },
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Application\\ESM.Application.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Application\\ESM.Application.csproj"
               },
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj"
               },
-              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj"
+              "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Infrastructure\\ESM.Infrastructure.csproj"
               }
             }
           }

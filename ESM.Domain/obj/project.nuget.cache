@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TBwqG32UqaU=",
+  "dgSpecHash": "2gLRA/bY8AI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.gemini\\antigravity-ide\\scratch\\ESM\\ESM.Domain\\ESM.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\Desktop\\ESM\\ESM.Domain\\ESM.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\10.0.11\\microsoft.aspnetcore.cryptography.internal.10.0.11.nupkg.sha512",
     "C:\\Users\\Mohamed.DESKTOP-06S7P6V\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\10.0.11\\microsoft.aspnetcore.cryptography.keyderivation.10.0.11.nupkg.sha512",

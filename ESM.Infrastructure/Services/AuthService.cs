@@ -41,6 +41,7 @@ public class AuthService : IAuthService
         var roles = await _userManager.GetRolesAsync(user);
         
         var accessToken = GenerateAccessToken(user, roles);
+
         var refreshToken = GenerateRefreshToken();
         var hashedRefreshToken = HashToken(refreshToken);
 

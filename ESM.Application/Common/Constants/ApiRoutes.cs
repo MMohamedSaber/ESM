@@ -19,5 +19,6 @@ public static class ApiRoutes
         public const string Base = Root + "/organizations";
 
         public const string Register = Base + "/register";
+        public const string GetAll = Base;
     }
 }
